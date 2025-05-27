@@ -25,7 +25,7 @@ Este proyecto contiene un script de hardening para Windows Server 2019 que autom
 
 ## Requisitos
 
-- Windows Server 2019 con PowerShell instalado
+- Windows Server 2019-2022 con PowerShell instalado
 - Ejecución como administrador
 - Conectividad a Internet para descargar módulos de PowerShell (LAPS, PSWindowsUpdate)
 
